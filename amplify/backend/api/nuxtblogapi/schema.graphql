@@ -1,0 +1,18 @@
+type Post @model @key(fields: ["id", "page"]) {
+  id: String!
+  tag: String!
+  page: Int!
+  content: String!
+}
+type PostManage @model {
+  id: ID!
+  title: String!
+  post: Post
+  addDate : String!
+  updateDate : String!
+  comments: [Comment]
+}
+type Comment @model {
+  id: ID!
+  content: String!
+}

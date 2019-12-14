@@ -1,0 +1,14 @@
+{
+    "testone": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-nuxt-blog-api-testone-235048-authRole",
+            "UnauthRoleArn": "arn:aws:iam::195496683017:role/amplify-nuxt-blog-api-testone-235048-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::195496683017:role/amplify-nuxt-blog-api-testone-235048-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-nuxt-blog-api-testone-235048-deployment",
+            "UnauthRoleName": "amplify-nuxt-blog-api-testone-235048-unauthRole",
+            "StackName": "amplify-nuxt-blog-api-testone-235048",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:195496683017:stack/amplify-nuxt-blog-api-testone-235048/4aedfa80-15dc-11ea-9353-06fcc76a2472"
+        }
+    }
+}

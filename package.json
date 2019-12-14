@@ -13,7 +13,13 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@aws-amplify/cli": "^3.17.0",
+    "aws-amplify": "^2.1.1-unstable.10",
+    "aws-amplify-vue": "^0.3.3",
+    "dotenv": "^8.2.0",
+    "global": "^4.4.0",
     "nuxt": "^2.0.0",
+    "serialize-javascript": "^2.1.1",
     "vue-markdown": "^2.2.4"
   },
   "devDependencies": {
